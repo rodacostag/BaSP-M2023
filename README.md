@@ -11,7 +11,11 @@ I designed with my team, the layout of the landing page in Figma.
 
 I created an html file, called index.html, which copied the structure of the figma design.
 
-I am expecting to work on a .css file in order to give the content style for future use.
+
+## Week 03
+
+I created a .css file and added px styles to the index.html file. 
+
 
 ## Author
 -Rodrigo Acosta Güinle
