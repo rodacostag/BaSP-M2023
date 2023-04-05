@@ -66,7 +66,7 @@ main {
 
 main #intro-container .place-left {
     float: left;
-    width: 750px;
+    width: 730px;
     height: 845px;
     padding-left: 10px;
 }
@@ -140,7 +140,7 @@ main #intro-container .place-left {
 
 #app-features article {
     display: inline-block;
-    width: 725px;
+    width: 717px;
 }
 
 .place-text{
